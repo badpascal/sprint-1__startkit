@@ -1,0 +1,10 @@
+.video__iframe {
+    width: 515px;
+    height: 316px;
+    border: 0;
+    transition: opacity linear 0.5s;
+  }
+  
+  .video__iframe:hover {
+    opacity: 0.7;
+  }
